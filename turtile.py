@@ -134,7 +134,7 @@ draw_square()
 draw_six_stars_rows()
 # draw 20 stars, 5 * 4. total 50 stars representing 50 states of USA
 draw_five_stars_rows()
-# hide the cursor/turtle
+# hide the cursor/turtlex`
 oogway.hideturtle()
 # keep holding the screen until closed manually
 screen.mainloop()
