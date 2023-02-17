@@ -1,7 +1,4 @@
-#
-# Python script to create USA flag using turtle.
-# Author - [PythonCircle](https://www.pythoncircle.com)
-#
+
 
 import turtle
 import time
